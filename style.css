@@ -138,3 +138,35 @@ a {
 .contact a:hover {
   color: #32c5d2;
 }
+/*buttons*/
+.btn {
+  font-weight: 600;
+  letter-spacing: 0px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  border-radius: 2px;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.btn-lg {
+  padding: 14px 28px 13px 28px;
+  font-size: 13px;
+}
+
+.btn:focus, .btn:hover {
+  outline: 0;
+  color: #fff;
+}
+
+.border-white {
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+.border-white:hover {
+  background-color: #fff;
+  border-color: #fff;
+  color: #000;
+}
