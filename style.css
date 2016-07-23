@@ -386,7 +386,7 @@ h1.typed-text {
 #comres-parallax {
   background: url("/img/water-grass.jpg") no-repeat;
   padding: 190px 0;
-  background-size:100%;
+  background-size:50%;
   background-repeat:no-repeat;
   height: 50%;
   width: 100%;
