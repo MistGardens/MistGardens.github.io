@@ -386,9 +386,9 @@ h1.typed-text {
 #comres-parallax {
   background: url("/img/install-pic.jpeg") no-repeat;
   padding: 35px 0;
-  background-size:100%;
+  background-size:50%;
   background-repeat:no-repeat;
-  height: 50%;
+  height: 100%;
   width: 100%;
 }
 
