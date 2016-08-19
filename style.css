@@ -451,3 +451,6 @@ h1.typed-text {
 #about-parallax p {
   color: #fff;
 }
+.col-sm-7 {
+	height: 10%;
+}
